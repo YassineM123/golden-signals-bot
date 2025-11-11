@@ -1,0 +1,9 @@
+{
+  "API_ID": 123456,
+  "API_HASH": "your_api_hash_here",
+  "SESSION": "golden_signals_bot",
+  "SOURCE_ID": -1000000000000,
+  "DEST_ID": -1000000000000,
+  "BRAND_HANDLE": "@YourBrandHandle",
+  "CHANNEL_URL": "https://t.me/YourChannelURL"
+}
